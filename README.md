@@ -38,6 +38,8 @@ FCMReminder.FCMReminder(
 );
 ```
 
+- Note: `timestamp` should be in ISO-8601 and the format is: `YYYY-MM-DDTHH:mm:ss.sssZ`
+
 - Example of messageData:
 
 ```javascript
