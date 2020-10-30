@@ -4,6 +4,8 @@
 
 ## Installation
 
+#### You should have Node.js installed in your system
+
 ### Using npm
 
 `$ npm install fcm-reminder`
