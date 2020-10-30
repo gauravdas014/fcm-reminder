@@ -1,0 +1,23 @@
+{
+  "name": "fcm-reminder",
+  "version": "1.0.0",
+  "description": "A simple package to send reminder using firebase cloud messaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravdas014/fcm-reminder.git"
+  },
+  "author": "Gaurav Das <gauravdas014@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravdas014/fcm-reminder/issues"
+  },
+  "homepage": "https://github.com/gauravdas014/fcm-reminder#readme",
+  "dependencies": {
+    "firebase-admin": "^9.3.0",
+    "node-schedule": "^1.3.2"
+  }
+}
