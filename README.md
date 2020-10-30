@@ -19,7 +19,13 @@ const FCM_DB_URL = `<Firebase_DB_URL>`;
 const regToken = `<FCM token of the device to which the reminder is to be sent>`;
 const timestamp = `<Time at which the reminder is to be sent>`;
 const messageData = `<A json which will be sent to the device as a notification>`;
-FCMReminder(serviceAccount, FCM_DB_URL, regToken, timestamp, messageData);
+FCMReminder.FCMReminder(
+  serviceAccount,
+  FCM_DB_URL,
+  regToken,
+  timestamp,
+  messageData
+);
 ```
 
 - Example of messageData:
