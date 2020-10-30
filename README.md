@@ -14,8 +14,16 @@
 
 `$ yarn add fcm-reminder`
 
+## Importing
+
 ```javascript
+// Using Node.js `require()`
 const FCMReminder = require("fcm-reminder");
+```
+
+## Overview
+
+```javascript
 const serviceAccount = require("path_to_firebase_config_file");
 const FCM_DB_URL = `<Firebase_DB_URL>`;
 const regToken = `<FCM token of the device to which the reminder is to be sent>`;
