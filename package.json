@@ -1,6 +1,6 @@
 {
   "name": "fcm-reminder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple package to send reminder using firebase cloud messaging",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,13 @@
   "bugs": {
     "url": "https://github.com/gauravdas014/fcm-reminder/issues"
   },
+  "keywords": [
+    "fcm",
+    "firebase",
+    "reminder",
+    "fcm-reminder",
+    "firebase-reminder"
+  ],
   "homepage": "https://github.com/gauravdas014/fcm-reminder#readme",
   "dependencies": {
     "firebase-admin": "^9.3.0",
