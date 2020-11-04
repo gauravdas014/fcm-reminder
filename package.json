@@ -1,6 +1,6 @@
 {
   "name": "fcm-reminder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple package to send reminder using firebase cloud messaging",
   "main": "index.js",
   "scripts": {
