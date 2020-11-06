@@ -1,4 +1,29 @@
-# fcm-reminder [![Build Status](https://travis-ci.org/gauravdas014/fcm-reminder.svg?branch=main)](https://travis-ci.org/gauravdas014/fcm-reminder) [![CodeFactor](https://www.codefactor.io/repository/github/gauravdas014/fcm-reminder/badge)](https://www.codefactor.io/repository/github/gauravdas014/fcm-reminder) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# <div align="center">FCM Reminder</div>
+
+<div align="center">An npm package for sending reminders using Firebase Cloud Messaging.</div><br>  
+<div align="center">
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/Platform-Node-blue.svg"
+      alt="Platform" />
+  </a>
+
+  <a href="https://www.npmjs.com/package/fcm-reminder">
+    <img alt="npm" src="https://img.shields.io/npm/v/fcm-reminder.svg" alt="npm package" />
+  </a>
+
+  <a href="https://travis-ci.org/gauravdas014/fcm-reminder">
+    <img src="https://travis-ci.org/gauravdas014/fcm-reminder.svg?branch=main"
+      alt="Build Status" />
+  </a>
+ <a href="https://www.codefactor.io/repository/github/gauravdas014/fcm-reminder">
+  <img src="https://www.codefactor.io/repository/github/gauravdas014/fcm-reminder/badge" alt="CodeFactor" />
+ </a>
+
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-red.svg"
+      alt="License: MIT" />
+  </a>
+</div><br>
 
 ## A package for sending reminders using Firebase Cloud Messaging
 
