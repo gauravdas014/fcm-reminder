@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/gauravdas014/fcm-reminder.svg?branch=main)](https://travis-ci.org/gauravdas014/fcm-reminder)
+
 # fcm-reminder
 
 ## A package for sending reminders using Firebase Cloud Messaging
