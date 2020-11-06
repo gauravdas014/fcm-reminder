@@ -3,7 +3,7 @@
 <div align="center">An npm package for sending reminders using Firebase Cloud Messaging.</div><br>  
 <div align="center">
   <a href="https://nodejs.org">
-    <img src="https://img.shields.io/badge/Platform-Node-blue.svg"
+    <img src="https://img.shields.io/badge/Platform-Node-yellow.svg"
       alt="Platform" />
   </a>
 
