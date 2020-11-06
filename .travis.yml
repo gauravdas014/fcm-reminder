@@ -2,3 +2,7 @@ language: node_js
 node_js:
   - "12.18"
   - "14.15"
+  install:
+    - npm install -g codecov
+  script:
+    - codecov
