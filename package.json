@@ -4,7 +4,6 @@
   "description": "A simple package to send reminder using firebase cloud messaging",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
