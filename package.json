@@ -23,7 +23,7 @@
   ],
   "homepage": "https://github.com/gauravdas014/fcm-reminder#readme",
   "dependencies": {
-    "firebase-admin": "^9.3.0",
+    "firebase-admin": "^10.3.0",
     "node-schedule": "^2.0.0"
   }
 }
